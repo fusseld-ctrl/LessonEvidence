@@ -1,0 +1,470 @@
+<p>&nbsp;</p>
+<div style="background-color: #1a1a2e; padding: 60px 40px 50px 40px; text-align: center; position: relative; overflow: hidden;">
+    <div style="position: relative; z-index: 1;">
+        <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #c9a84c; margin-bottom: 16px;">Honors Civic Literacy &nbsp;|&nbsp; Mr. Fussell &nbsp;|&nbsp; Innovation Early College High School</div>
+        <h1 style="font-family: 'Playfair Display',Georgia,serif; font-size: 56px; color: #f5f0e8; margin: 0 0 8px 0; line-height: 1.1;">The Reveal</h1>
+        <div style="font-family: 'Source Serif 4',Georgia,serif; font-size: 20px; font-style: italic; color: #c9a84c; margin-bottom: 24px;">A Media Literacy Investigation</div>
+        <div style="display: inline-block; background-color: rgba(201,168,76,0.15); border: 1px solid rgba(201,168,76,0.4); border-radius: 4px; padding: 14px 28px; max-width: 680px;">
+            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 6px;">Essential Question</div>
+            <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 19px; color: #f5f0e8; line-height: 1.4;">Who is shaping what you believe, and do you consent to it?</div>
+        </div>
+    </div>
+</div>
+<div style="background-color: #c9a84c; padding: 10px 40px; overflow: hidden;">
+    <div style="font-family: 'DM Mono', monospace; font-size: 11px; color: #1a1a2e; text-align: center;"><br />5 Days &nbsp;&nbsp;|&nbsp;&nbsp; Individual Investigation &nbsp;&nbsp;|&nbsp;&nbsp; Inquiry Notebook Required &nbsp;&nbsp;|&nbsp;&nbsp; Day 5: Choose Your Track<br /><br /></div>
+</div>
+<div style="max-width: 900px; margin: 0 auto; padding: 48px 32px;">
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #1a1a2e; padding: 20px 32px; display: flex; align-items: center; gap: 16px;">
+            <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #c9a84c;">Before We Begin</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <h2 style="font-family: 'Playfair Display',Georgia,serif; font-size: 28px; color: #1a1a2e; margin: 0 0 24px 0;">Read This First.</h2>
+            <div style="background-color: #f5f0e8; border-left: 4px solid #c9a84c; border-radius: 0 6px 6px 0; padding: 28px 32px; margin-bottom: 28px;">
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0; font-style: italic;">Somewhere in North Carolina right now, two people are reading about the same event.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">One is in a suburb outside Charlotte. One is in a small town not far from here. They both saw the same thing happen -- the same vote, the same protest, the same storm, the same shooting. They both went looking for information. They both found it.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">But what they found was not the same.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">One of them is angry. One of them is relieved. One of them thinks the people in charge handled it well. One of them thinks those same people should be removed from office. They are not arguing. They never met. They just live inside different versions of the same reality -- and neither of them knows it.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">Here is the part that should unsettle you: you are one of those people.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">Right now, today, without knowing it, you are living inside a version of reality that was built for you. Not by accident. On purpose. By people who studied what makes you click, what makes you angry, what makes you share, what makes you come back. They are very good at their jobs.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">Eastern North Carolina has a story. You have lived it or you have heard it -- the hurricanes that hit here harder than anywhere, the farms and factories, the towns that show up in national news when something goes wrong and disappear when the cameras leave. People outside this region have strong opinions about it. They form those opinions from somewhere -- from what they read, what they watch, what their algorithm serves them on a Tuesday afternoon.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">Most of them have never been here.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 17px; line-height: 1.85; color: #1a1a2e; margin: 0 0 18px 0;">That gap -- between what people consume and what is actually true -- is not a small problem. It shapes elections. It shapes policy. It shapes how much money comes to rebuild a town after a flood and how much does not. It shapes whether the people making decisions about your community ever actually understand it.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 18px; line-height: 1.85; color: #1a1a2e; margin: 0;">Media literacy is not a school skill. It is a survival skill for people who live in places the media gets wrong.</p>
+            </div>
+            <div style="background-color: #1a1a2e; border-radius: 6px; padding: 24px 32px; text-align: center;">
+                <p style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #c9a84c; margin: 0 0 8px 0;">This week, you are going to find out what they built.</p>
+                <p style="font-family: 'Source Serif 4',Georgia,serif; font-size: 16px; color: #f5f0e8; margin: 0; font-style: italic;">And decide whether you consent to living in it.</p>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #2d4a3e; padding: 20px 32px; display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #a8d5b5; margin-bottom: 4px;">Movement One</div>
+                <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #f5f0e8;">Day 1: Waking Up</div>
+            </div>
+            <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #a8d5b5; background-color: rgba(168,213,181,0.15); border: 1px solid rgba(168,213,181,0.3); border-radius: 4px; padding: 6px 14px;">70 min</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e; margin-bottom: 12px;">The Goal</div>
+                <p style="font-size: 16px; line-height: 1.75; margin: 0; color: #1a1a2e;">Before I (Mr. Fussell) tell you anything about media, you are going to feel something about it. Today is not about notes. Today is about waking up to what is already happening around you.</p>
+            </div>
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e; margin-bottom: 16px;">What Happens Today</div>
+                <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 12px;">
+                    <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e;">Part 1 &nbsp;|&nbsp; Two Films. One Idea. (15 min)</div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 10px 0; color: #1a1a2e;">Mr. Fussell will show you two clips without any introduction. Watch them. Do not talk. When they are done, write one sentence in your inquiry notebook: <span style="font-style: italic;">What do these two things have in common?</span></p>
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0; color: #555;">Then we will talk about what you saw -- and what it has to do with your phone.</p>
+                    </div>
+                </div>
+                <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 12px;">
+                    <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e;">Part 2 &nbsp;|&nbsp; Welcome to The Reveal (10 min)</div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 10px 0; color: #1a1a2e;">Mr. Fussell will introduce this investigation -- what it is, what you will do, and what the next five days look like. You will receive your role as an analyst. This room, for the next five days, is <strong>The Reveal</strong> -- a media analysis think tank commissioned to investigate one of the most important civic questions of your generation.</p>
+                    </div>
+                </div>
+                <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 12px;">
+                    <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e;">Part 3 &nbsp;|&nbsp; My Media Diet (15 min)</div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">Open your inquiry notebook. This is <strong>Day 1 of your Media Audit Log.</strong> Answer the following guided questions honestly. No one is judging your media consumption. This is data, not a confession.</p>
+                        <div style="background-color: #f5f0e8; border-radius: 6px; padding: 20px 24px;">
+                            <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                                <li>What are the top three sources where you get information about the world -- news, events, politics, or current events?</li>
+                                <li>How many hours per day would you estimate you spend consuming media of any kind?</li>
+                                <li>Have you ever changed your mind about something because of something you saw, read, or watched? What happened?</li>
+                                <li>Do you think the media you consume is accurate? How do you know?</li>
+                                <li>Do you think the media you consume is trying to influence you? Does that bother you?</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden;">
+                    <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e;">Part 4 &nbsp;|&nbsp; Your Investigative Questions (20 min)</div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">Every analyst enters an investigation with questions they genuinely want answered. Now it is your turn. Using Costa's Levels of Questioning, you will write <strong>at least two questions</strong> that you actually want to investigate this week.</p>
+                        <div style="background-color: #1a1a2e; border-radius: 6px; padding: 20px 24px; margin-bottom: 16px;">
+                            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 12px;">Costa's Level Reminder</div>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px;">
+                                <div style="background-color: rgba(255,255,255,0.05); border-radius: 4px; padding: 12px 14px;">
+                                    <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 6px;">Level 1</div>
+                                    <div style="font-size: 13px; color: #f5f0e8; line-height: 1.5;">Found directly in the text. One right answer. <span style="font-style: italic;">Who owns CNN?</span></div>
+                                </div>
+                                <div style="background-color: rgba(201,168,76,0.15); border: 1px solid rgba(201,168,76,0.3); border-radius: 4px; padding: 12px 14px;">
+                                    <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 6px;">Level 2 ✓</div>
+                                    <div style="font-size: 13px; color: #f5f0e8; line-height: 1.5;">Requires analysis across sources. <span style="font-style: italic;">How does ownership shape the stories a network chooses to tell?</span></div>
+                                </div>
+                                <div style="background-color: rgba(201,168,76,0.15); border: 1px solid rgba(201,168,76,0.3); border-radius: 4px; padding: 12px 14px;">
+                                    <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 6px;">Level 3 ✓</div>
+                                    <div style="font-size: 13px; color: #f5f0e8; line-height: 1.5;">Goes beyond the text. Big ideas, civic implications. <span style="font-style: italic;">If I only consume one source, what kind of citizen does that make me?</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px;">
+                            <p style="font-size: 15px; line-height: 1.75; margin: 0; color: #1a1a2e;">Write your questions in your inquiry notebook. Label each one Level 2 or Level 3. These are <strong>your</strong> questions for this investigation. You will return to them on Day 5 and answer them based on what you found.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #2d4a3e; border-radius: 6px; padding: 20px 28px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #a8d5b5; margin-bottom: 8px;">Before You Leave</div>
+                <p style="font-size: 15px; color: #f5f0e8; margin: 0; line-height: 1.7;">Choose the media source you will investigate for this entire unit. It should be something you actually use -- a platform, a channel, a publication, an account, a feed. Bring examples of it to Day 2. This is your beat. You are the analyst assigned to it.</p>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #3d2645; padding: 20px 32px; display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #d4a8e0; margin-bottom: 4px;">Movement Two</div>
+                <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #f5f0e8;">Day 2: The Four Moves</div>
+            </div>
+            <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #d4a8e0; background-color: rgba(212,168,224,0.15); border: 1px solid rgba(212,168,224,0.3); border-radius: 4px; padding: 6px 14px;">70 min</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #3d2645; margin-bottom: 12px;">The Goal</div>
+                <p style="font-size: 16px; line-height: 1.75; margin: 0; color: #1a1a2e;">Today you receive your investigative toolkit. These are the four moves every analyst at The Reveal uses to examine any piece of media -- any platform, any era, any story. You will practice them together first, then begin turning them on your own source.</p>
+            </div>
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #3d2645; margin-bottom: 16px;">The Analyst's Framework: Four Moves</div>
+                <p style="font-size: 15px; line-height: 1.75; color: #1a1a2e; margin: 0 0 20px 0;">Sketch these four quadrants in your inquiry notebook. Label each one with the word, the title, and the core question. These are not steps on a checklist. They are a way of seeing. Every time you consume media for the rest of your life, you can use these.</p>
+                <div style="border: 2px solid #1a1a2e; border-radius: 8px; overflow: hidden; margin-bottom: 16px;">
+                    <div style="background-color: #1a1a2e; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 32px; color: #c9a84c; line-height: 1;">01</div>
+                        <div>
+                            <div style="font-family: 'DM Mono',monospace; font-size: 13px; color: #c9a84c;">Origin</div>
+                            <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 18px; color: #f5f0e8;">Who Made This?</div>
+                        </div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 16px; font-style: italic; color: #1a1a2e; margin: 0 0 16px 0;">Who made this and why does that matter?</p>
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #333;">
+                            <li>Who or what organization produced this?</li>
+                            <li>Who owns or funds this source?</li>
+                            <li>What does this source gain from you consuming it?</li>
+                            <li>Does this source have a history of accuracy or bias?</li>
+                            <li>Would knowing the owner change how you read this?</li>
+                        </ul>
+                    </div>
+                </div>
+                <div style="border: 2px solid #1a1a2e; border-radius: 8px; overflow: hidden; margin-bottom: 16px;">
+                    <div style="background-color: #1a1a2e; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 32px; color: #c9a84c; line-height: 1;">02</div>
+                        <div>
+                            <div style="font-family: 'DM Mono',monospace; font-size: 13px; color: #c9a84c;">Frame</div>
+                            <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 18px; color: #f5f0e8;">What Did They Choose?</div>
+                        </div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 16px; font-style: italic; color: #1a1a2e; margin: 0 0 16px 0;">What did they choose to show and what did they choose to leave out?</p>
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #333;">
+                            <li>What words, images, or details are emphasized?</li>
+                            <li>What perspective or voice is missing from this story?</li>
+                            <li>How does the headline compare to the actual content?</li>
+                            <li>If a different outlet covered this same story, what might they show differently?</li>
+                            <li>What would this story look like told from another point of view?</li>
+                        </ul>
+                    </div>
+                </div>
+                <div style="border: 2px solid #1a1a2e; border-radius: 8px; overflow: hidden; margin-bottom: 16px;">
+                    <div style="background-color: #1a1a2e; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 32px; color: #c9a84c; line-height: 1;">03</div>
+                        <div>
+                            <div style="font-family: 'DM Mono',monospace; font-size: 13px; color: #c9a84c;">Target</div>
+                            <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 18px; color: #f5f0e8;">Who Is This For?</div>
+                        </div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 16px; font-style: italic; color: #1a1a2e; margin: 0 0 16px 0;">Who is this made for and how does it want me to feel?</p>
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #333;">
+                            <li>Who is the intended audience for this content?</li>
+                            <li>What emotion does this content seem designed to create?</li>
+                            <li>Does it want you to feel angry, afraid, proud, reassured, or something else?</li>
+                            <li>How does it feel in your body when you consume this?</li>
+                            <li>Are you the intended audience, or did you stumble into someone else's feed?</li>
+                        </ul>
+                    </div>
+                </div>
+                <div style="border: 2px solid #1a1a2e; border-radius: 8px; overflow: hidden;">
+                    <div style="background-color: #1a1a2e; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 32px; color: #c9a84c; line-height: 1;">04</div>
+                        <div>
+                            <div style="font-family: 'DM Mono',monospace; font-size: 13px; color: #c9a84c;">Signal</div>
+                            <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 18px; color: #f5f0e8;">What Does This Want?</div>
+                        </div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 16px; font-style: italic; color: #1a1a2e; margin: 0 0 16px 0;">What does this want me to do, think, or believe?</p>
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #333;">
+                            <li>What action, if any, does this content push you toward?</li>
+                            <li>What belief does regular consumption of this source reinforce over time?</li>
+                            <li>Is this informing you or is it shaping you?</li>
+                            <li>What would a citizen who only consumed this source believe about the world?</li>
+                            <li>After reading or watching this, what do you feel compelled to do next?</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #3d2645; margin-bottom: 16px;">Guided Practice: Six Perspectives, One Story</div>
+                <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden;">
+                    <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #3d2645;">Ad Fontes Media Activity (35 min)</div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 16px 0; color: #1a1a2e;">Mr. Fussell will hand you one article. Somewhere in this room, two or three other students have a different article. Every article in this room covers the <strong>exact same news event</strong> -- but from a different place on the political and reliability spectrum, sourced from Ad Fontes Media.</p>
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 16px 0; color: #1a1a2e;">Using your Four Moves framework, complete a Day 2 entry in your inquiry notebook for the article you received. Use the questions as your guide -- you do not have to answer every single one, but you should work through all four moves.</p>
+                        <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px; margin-bottom: 16px;">
+                            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #3d2645; margin-bottom: 10px;">In Your Notebook -- Day 2 Entry</div>
+                            <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                                <li>What source did you receive? Who owns or funds it?</li>
+                                <li>What choices did this article make in how it told the story?</li>
+                                <li>What emotion did this article seem designed to create?</li>
+                                <li>What does this article want you to believe about this event?</li>
+                                <li>After applying the Four Moves: how would you describe this source to someone who had never seen it?</li>
+                            </ul>
+                        </div>
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0; color: #1a1a2e;">When analysts are done, Mr. Fussell will bring the room together. You will share what you found. The same event -- six different realities. That difference <strong>is</strong> the lesson.</p>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #3d2645; border-radius: 6px; padding: 20px 28px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #d4a8e0; margin-bottom: 8px;">Before You Leave</div>
+                <p style="font-size: 15px; color: #f5f0e8; margin: 0; line-height: 1.7;">Write one sentence in your notebook: <span style="font-style: italic;">What surprised you most about the article you received?</span> Hold onto that surprise. You will need it.</p>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #7a3b1e; padding: 20px 32px; display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #f0c9a0; margin-bottom: 4px;">Movement Three</div>
+                <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #f5f0e8;">Day 3: First Look</div>
+            </div>
+            <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #f0c9a0; background-color: rgba(240,201,160,0.15); border: 1px solid rgba(240,201,160,0.3); border-radius: 4px; padding: 6px 14px;">70 min</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #7a3b1e; margin-bottom: 12px;">The Goal</div>
+                <p style="font-size: 16px; line-height: 1.75; margin: 0; color: #1a1a2e;">Yesterday you practiced the Four Moves on a source Mr. Fussell chose. Today you turn the lens on yourself -- on the source you actually use. This is where the investigation gets personal.</p>
+            </div>
+            <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 24px;">
+                <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #7a3b1e;">Day 3 Notebook Entry: The First Look (50 min)</div>
+                <div style="padding: 20px 24px;">
+                    <p style="font-size: 15px; line-height: 1.75; margin: 0 0 16px 0; color: #1a1a2e;">Pull up or bring in examples from your chosen media source. You are going to apply all Four Moves to it. Work through each move carefully. Use the scaffolding questions. Write everything in your inquiry notebook under <strong>Day 3: First Look.</strong></p>
+                    <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px; margin-bottom: 16px;">
+                        <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #7a3b1e; margin-bottom: 10px;">Guiding Questions for Your Notebook</div>
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                            <li>Apply Move 1 (Origin): What do you actually know about who made this? What did you have to look up?</li>
+                            <li>Apply Move 2 (Frame): Find one specific example from your source where a choice was made about what to include or leave out. Describe it.</li>
+                            <li>Apply Move 3 (Target): Be honest -- how does this source make you feel? Is that feeling useful to you as a citizen, or is it useful to someone else?</li>
+                            <li>Apply Move 4 (Signal): If you consumed only this source for one year, what would you believe about the world?</li>
+                            <li>What is one thing you noticed today that you had never noticed before about this source?</li>
+                        </ul>
+                    </div>
+                    <p style="font-size: 15px; line-height: 1.75; margin: 0; color: #1a1a2e;">This is not a performance. Write what you actually think. Your inquiry notebook is your thinking space -- not a place to write what sounds good.</p>
+                </div>
+            </div>
+            <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 24px;">
+                <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #7a3b1e;">Think Tank Check-In (15 min)</div>
+                <div style="padding: 20px 24px;">
+                    <p style="font-size: 15px; line-height: 1.75; margin: 0; color: #1a1a2e;">Mr. Fussell will bring the room together for a brief analyst check-in. Each analyst shares one thing they found so far -- one observation, one surprise, one question that opened up. You are not presenting yet. You are thinking out loud with your colleagues at The Reveal. Listen to what others found. Note anything that connects to your own investigation.</p>
+                </div>
+            </div>
+            <div style="background-color: #7a3b1e; border-radius: 6px; padding: 20px 28px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #f0c9a0; margin-bottom: 8px;">Before You Leave</div>
+                <p style="font-size: 15px; color: #f5f0e8; margin: 0; line-height: 1.7;">Write this prompt in your notebook and answer it: <span style="font-style: italic;">What pattern am I starting to see -- and what might it mean for how I stay informed?</span> This answer will be the spine of your Day 4 work.</p>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #1a3a5c; padding: 20px 32px; display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #a0c4e8; margin-bottom: 4px;">Movement Four</div>
+                <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #f5f0e8;">Day 4: Going Deeper</div>
+            </div>
+            <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #a0c4e8; background-color: rgba(160,196,232,0.15); border: 1px solid rgba(160,196,232,0.3); border-radius: 4px; padding: 6px 14px;">70 min</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #1a3a5c; margin-bottom: 12px;">The Goal</div>
+                <p style="font-size: 16px; line-height: 1.75; margin: 0; color: #1a1a2e;">The scaffolding comes off today. You have the framework. You have your source. You have three days of observations. Now you build your case. Today is about going deeper into what you found and consolidating it into findings you can present tomorrow.</p>
+            </div>
+            <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 24px;">
+                <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #1a3a5c;">Day 4 Notebook Entry: Building the Case (45 min)</div>
+                <div style="padding: 20px 24px;">
+                    <p style="font-size: 15px; line-height: 1.75; margin: 0 0 16px 0; color: #1a1a2e;">Go back through your Day 1, Day 2, and Day 3 entries. Read what you wrote. Then use the following questions to push deeper. Write your Day 4 entry in your inquiry notebook.</p>
+                    <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px;">
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                            <li>What is the clearest pattern you have found across your investigation so far?</li>
+                            <li>What does your source do well as a source of civic information?</li>
+                            <li>What does your source do that concerns you as a citizen?</li>
+                            <li>Go back to your Day 1 questions. Can you answer them now? Write your answers.</li>
+                            <li>What would you tell a friend who uses this source every day without thinking about it?</li>
+                            <li>What does this investigation reveal about the essential question: <span style="font-style: italic;">Who is shaping what you believe, and do you consent to it?</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 24px;">
+                <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #1a3a5c;">Choose Your Track (15 min)</div>
+                <div style="padding: 20px 24px;">
+                    <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">Tomorrow you will present your findings to The Reveal. Today you will choose how. Read the three tracks below and decide which one fits how you think and how you communicate best. There is no wrong answer. Choose the track that will let your findings shine.</p>
+                    <div style="background-color: #f5f0e8; border-radius: 6px; padding: 12px 16px;">
+                        <p style="font-size: 14px; font-family: 'DM Mono',monospace; color: #1a3a5c; margin: 0;">Write your chosen track in your notebook and spend the remaining time preparing for it.</p>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #1a3a5c; border-radius: 6px; padding: 20px 28px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #a0c4e8; margin-bottom: 8px;">Closing Entry -- Do This Last</div>
+                <p style="font-size: 15px; color: #f5f0e8; margin: 0; line-height: 1.7;">Before you close your notebook, write this: <span style="font-style: italic;">My three strongest findings from this investigation are...</span> These three findings are what you will build your Day 5 presentation around. If you cannot write three, keep working.</p>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #c9a84c; padding: 20px 32px; display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #1a1a2e; margin-bottom: 4px;">Movement Five</div>
+                <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #1a1a2e;">Day 5: The Findings</div>
+            </div>
+            <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #1a1a2e; background-color: rgba(26,26,46,0.15); border: 1px solid rgba(26,26,46,0.3); border-radius: 4px; padding: 6px 14px;">70 min</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <div style="margin-bottom: 32px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #7a6010; margin-bottom: 12px;">The Goal</div>
+                <p style="font-size: 16px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">Today The Reveal presents its findings. Every analyst has spent four days investigating a media source that real people -- maybe people in your family, in your community -- consume every day. What you found matters. Today you share it.</p>
+                <p style="font-size: 16px; line-height: 1.75; margin: 0; color: #1a1a2e;">Before you present, you will complete your final notebook entry. Then you will present using the track you chose yesterday.</p>
+            </div>
+            <div style="border: 1px solid #e8e0d0; border-radius: 6px; overflow: hidden; margin-bottom: 28px;">
+                <div style="background-color: #f5f0e8; padding: 10px 20px; font-family: 'DM Mono',monospace; font-size: 10px; color: #7a6010;">Day 5 Notebook Entry: The Verdict (15 min)</div>
+                <div style="padding: 20px 24px;">
+                    <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">Complete this final entry in your inquiry notebook before you present. This is your closing reflection as an analyst.</p>
+                    <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px;">
+                        <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                            <li>Go back to the two questions you wrote on Day 1. Answer them now, based on what you found.</li>
+                            <li>What is the single most important thing you discovered in this investigation?</li>
+                            <li>Did this investigation change anything about how you will consume media going forward? Be honest.</li>
+                            <li>Answer the essential question in your own words: <span style="font-style: italic;">Who is shaping what you believe, and do you consent to it?</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div style="margin-bottom: 28px;">
+                <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #7a6010; margin-bottom: 16px;">Choose Your Track: Three Ways to Present</div>
+                <div style="border: 2px solid #2d4a3e; border-radius: 8px; overflow: hidden; margin-bottom: 16px;">
+                    <div style="background-color: #2d4a3e; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #a8d5b5; background-color: rgba(168,213,181,0.2); border: 1px solid rgba(168,213,181,0.4); border-radius: 4px; padding: 4px 12px;">Track A</div>
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 20px; color: #f5f0e8;">The Brief</div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;"><strong>For analysts who think best through writing.</strong> You will write a structured one-page Analyst Brief by hand, in class, in your inquiry notebook or on paper provided by Mr. Fussell. This is completed during class time -- not before, not at home.</p>
+                        <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px;">
+                            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #2d4a3e; margin-bottom: 10px;">Your Brief Must Include</div>
+                            <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                                <li><strong>Source Analyzed:</strong> What source did you investigate and who owns it?</li>
+                                <li><strong>Framing Observed:</strong> What consistent choices did this source make in how it presented information?</li>
+                                <li><strong>Audience and Emotion:</strong> Who is this source for and how does it want them to feel?</li>
+                                <li><strong>The Signal:</strong> What does regular consumption of this source build in a person over time?</li>
+                                <li><strong>Civic Implication:</strong> What does your investigation reveal about what it means to be an informed citizen?</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div style="border: 2px solid #3d2645; border-radius: 8px; overflow: hidden; margin-bottom: 16px;">
+                    <div style="background-color: #3d2645; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #d4a8e0; background-color: rgba(212,168,224,0.2); border: 1px solid rgba(212,168,224,0.4); border-radius: 4px; padding: 4px 12px;">Track B</div>
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 20px; color: #f5f0e8;">The Board</div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;"><strong>For analysts who think best through visual organization.</strong> You will build a large-format Evidence Board on chart paper. This is hung on the wall. Mr. Fussell and your fellow analysts will come to your board and you will walk them through your findings.</p>
+                        <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px;">
+                            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #3d2645; margin-bottom: 10px;">Your Board Must Show</div>
+                            <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                                <li>The name and ownership of your source -- clearly visible</li>
+                                <li>At least two specific examples from your source with your Four Moves analysis applied to each</li>
+                                <li>The pattern you identified across your investigation</li>
+                                <li>Your answer to the essential question, in your own words, large enough to read from a distance</li>
+                                <li>Your name and your Day 1 investigative questions -- answered</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div style="border: 2px solid #1a3a5c; border-radius: 8px; overflow: hidden;">
+                    <div style="background-color: #1a3a5c; padding: 14px 24px; display: flex; align-items: center; gap: 16px;">
+                        <div style="font-family: 'DM Mono',monospace; font-size: 11px; color: #a0c4e8; background-color: rgba(160,196,232,0.2); border: 1px solid rgba(160,196,232,0.4); border-radius: 4px; padding: 4px 12px;">Track C</div>
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 20px; color: #f5f0e8;">The Dispatch</div>
+                    </div>
+                    <div style="padding: 20px 24px;">
+                        <p style="font-size: 15px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;"><strong>For analysts who think best through speaking.</strong> You will deliver a verbal presentation with a microphone. Your presentation will be recorded using Adobe Podcast, which will generate a transcript. Mr. Fussell will assess your findings from the transcript -- not from recording quality. The mic is yours. Speak like your findings matter, because they do.</p>
+                        <div style="background-color: #f5f0e8; border-radius: 6px; padding: 16px 20px;">
+                            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #1a3a5c; margin-bottom: 10px;">Your Dispatch Must Cover</div>
+                            <ul style="margin: 0; padding-left: 20px; font-size: 15px; line-height: 2; color: #1a1a2e;">
+                                <li>Introduce your source and why you chose it</li>
+                                <li>Walk through your three strongest findings, one at a time, with specific examples</li>
+                                <li>Explain what pattern emerged across your investigation</li>
+                                <li>Answer your Day 1 investigative questions out loud</li>
+                                <li>Close by answering the essential question: <span style="font-style: italic;">Who is shaping what you believe, and do you consent to it?</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #1a1a2e; border-radius: 6px; padding: 24px 32px; text-align: center;">
+                <p style="font-family: 'Playfair Display',Georgia,serif; font-size: 20px; color: #c9a84c; margin: 0 0 10px 0;">After everyone presents, The Reveal convenes.</p>
+                <p style="font-size: 15px; color: #f5f0e8; margin: 0; line-height: 1.75;">Mr. Fussell will bring the think tank together for a final collective conversation. What patterns did analysts find across different sources? What does it mean -- for this class, for this community, for citizens in Eastern North Carolina -- that the media environment looks the way it does? You came in asking a question. Today you answer it together.</p>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffffff; border-radius: 8px; margin-bottom: 40px; overflow: hidden;">
+        <div style="background-color: #1a1a2e; padding: 20px 32px;">
+            <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 4px;">Artifacts of Learning</div>
+            <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 22px; color: #f5f0e8;">What You Will Produce and Submit</div>
+        </div>
+        <div style="padding: 36px 40px;">
+            <p style="font-size: 16px; line-height: 1.75; margin: 0 0 28px 0; color: #1a1a2e;">By the end of this investigation, every analyst at The Reveal will have produced two artifacts. Both are required.</p>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 28px;">
+                <div style="border: 2px solid #1a1a2e; border-radius: 8px; overflow: hidden;">
+                    <div style="background-color: #1a1a2e; padding: 14px 20px;">
+                        <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 4px;">Artifact One</div>
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 18px; color: #f5f0e8;">The Media Audit Log</div>
+                    </div>
+                    <div style="padding: 20px 20px;">
+                        <p style="font-size: 14px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">Your inquiry notebook entries for all five days. This is the record of your thinking across the entire investigation. It must include:</p>
+                        <ul style="margin: 0; padding-left: 18px; font-size: 14px; line-height: 1.9; color: #333;">
+                            <li>Day 1: Media diet responses and your two Level 2 or 3 investigative questions</li>
+                            <li>Day 2: Four Moves analysis of your Ad Fontes article</li>
+                            <li>Day 3: First Look analysis of your own chosen source</li>
+                            <li>Day 4: Deep investigation entry and your three strongest findings</li>
+                            <li>Day 5: The Verdict closing reflection</li>
+                        </ul>
+                    </div>
+                </div>
+                <div style="border: 2px solid #1a1a2e; border-radius: 8px; overflow: hidden;">
+                    <div style="background-color: #1a1a2e; padding: 14px 20px;">
+                        <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #c9a84c; margin-bottom: 4px;">Artifact Two</div>
+                        <div style="font-family: 'Playfair Display',Georgia,serif; font-size: 18px; color: #f5f0e8;">Your Day 5 Presentation</div>
+                    </div>
+                    <div style="padding: 20px 20px;">
+                        <p style="font-size: 14px; line-height: 1.75; margin: 0 0 12px 0; color: #1a1a2e;">The product of your chosen track, completed and presented on Day 5. This takes one of three forms:</p>
+                        <ul style="margin: 0; padding-left: 18px; font-size: 14px; line-height: 1.9; color: #333;">
+                            <li><strong>Track A (The Brief):</strong> Handwritten Analyst Brief, completed in class</li>
+                            <li><strong>Track B (The Board):</strong> Chart paper Evidence Board, displayed and defended</li>
+                            <li><strong>Track C (The Dispatch):</strong> Recorded verbal presentation, transcript submitted</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #f0ece2; border: 1px solid #d8d0c0; border-radius: 8px; padding: 28px 32px; margin-bottom: 24px;">
+        <div style="font-family: 'DM Mono',monospace; font-size: 10px; color: #888; margin-bottom: 16px;">North Carolina Standards Addressed</div>
+        <div style="font-size: 13px; line-height: 1.9; color: #555;">
+            <p style="margin: 0 0 8px 0;"><strong style="color: #333;">CL.C&amp;G.3.6</strong> -- Distinguish the relationship between the media and government in terms of the responsibility to inform the American public.</p>
+            <p style="margin: 0 0 8px 0;"><strong style="color: #333;">I.1.3</strong> -- Gathering and Evaluating Sources: Locate credible primary and secondary sources; determine origin, context, and bias; differentiate between facts and interpretation.</p>
+            <p style="margin: 0 0 8px 0;"><strong style="color: #333;">I.1.4</strong> -- Developing Claims and Using Evidence: Analyze causes, effects, and correlations; determine the relevance of a source in relation to compelling and supporting questions.</p>
+            <p style="margin: 0 0 8px 0;"><strong style="color: #333;">I.1.5</strong> -- Communicating Ideas: Construct written, oral, and multimedia arguments; support arguments with evidence and reasoning; develop new understandings through rigorous academic discussion.</p>
+            <p style="margin: 0;"><strong style="color: #333;">I.1.6</strong> -- Taking Informed Action: Generate ideas through which inquiry facilitates change; organize and take individual or collaborative action to effect change and inform others.</p>
+        </div>
+    </div>
+    <div style="text-align: center; padding: 16px; font-family: 'DM Mono',monospace; font-size: 10px; color: #aaa;">The Reveal: A Media Literacy Investigation &nbsp;|&nbsp; Honors Civic Literacy &nbsp;|&nbsp; Innovation Early College High School at ECU</div>
+</div>
+<!----comment node----><!--a=1-->
